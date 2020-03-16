@@ -15,7 +15,7 @@ ferramentas para novos desenvolvedores na elaboração de um sistema para cadast
  <ul>
   <li>Node.js</li>
   <li>Javascript</li>
-  <li>Html</li>
+  <li>HTML</li>
   <li>CSS</li>
   <li>Nodemon</li>
   <li>PostgreSQL</li>
