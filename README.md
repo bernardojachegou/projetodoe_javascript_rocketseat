@@ -2,6 +2,10 @@
     <img alt="preview application" src="https://imgur.com/zaJ6bHy.png" width="400px"/>
 </h1>
 
+<h3 align="center">
+  :rocket: Maratona Dev - Rocketseat
+</h3>
+
 ## :book: Sobre o projeto:
 
 <p> Este foi um projeto desenvolvido em Fevereiro de 2020 na MaratonaDev da Rocketseat.
